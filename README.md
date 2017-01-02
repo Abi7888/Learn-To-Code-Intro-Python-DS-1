@@ -1,2 +1,7 @@
-# Intro-Python-DS-1
-Learn to Code Workshop: Introduction to Python for Data Science I
+# Learn to Code Workshop: Introduction to Python for Data Science I
+
+Please download/clone this repo and follow the directions within it.
+
+(This page is under construction. Check back often when we create IPython Notebooks and other supplemental material.)
+
+-The Galvanize Community
