@@ -1,4 +1,4 @@
-# Learn to Code Workshop: Introduction to Python for Data Science I
+# Learn to Code Workshop: Intro to Python for Data Science I
 
 Please download/clone this repo and follow the directions within it.
 
